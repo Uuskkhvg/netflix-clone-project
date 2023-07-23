@@ -256,50 +256,7 @@ input[type="radio"]
   margin-top: 20px;
   margin-bottom: 10px;
 }
-/*------------for mobile view--------------*/
-@media only screen and (max-width: 600px;)
-{
-  .logo
-  {
-    width: 100px;
-  }
-  nav button
-  {
-    padding: 5px 10px;
-  }
-  nav .language-btn
-  {
-    padding: 4px 8px;
-  }
-  .header-content
-  {
-    position: unset;
-    transform: none;
-    padding-top: 150px;
-  }
-  .header-content h1
-  {
-    font-size: 30px;
-  }
-  .email-signup button
-  {
-     font-size: 16px;
-     padding: 15px 30px;
-  }
-.text-col
-{
-  flex-basis: 100%;
-}
-.img-col
-{
-  flex-basis: 100%;
-}
-.features h2
-{
-  font-size: 15px;
-}
-}
-  
+
   
   
    
